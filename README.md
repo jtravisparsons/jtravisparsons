@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jtravisparsons
-- 👀 I’m interested in volcanology, magma rheology, and lava flow dynamics
+- 👀 I’m interested in volcanology, magma and lava rheology and flow dynamics
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on modeling lava flows to better understand geohazard risks
 - 📫 How to reach me: jtravisparsons@gmail.com
